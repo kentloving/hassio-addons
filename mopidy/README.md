@@ -1,6 +1,9 @@
+![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
+
+
 # Mopidy addon for hass.io
 
-[![Build Status](https://travis-ci.org/kentloving/hassio-addons.svg?branch=master)](https://travis-ci.org/kentloving/hassio-addons)[![](https://images.microbadger.com/badges/version/kloving/mopidy-armv7.svg)](https://microbadger.com/images/kloving/mopidy-armvy "Get your own version badge on microbadger.com")
+[![Build Status](https://travis-ci.org/kentloving/hassio-addons.svg?branch=master)](https://travis-ci.org/kentloving/hassio-addons)[![](https://images.microbadger.com/badges/version/kloving/mopidy-armv7.svg)](https://microbadger.com/images/kloving/mopidy-armv7 "Get your own version badge on microbadger.com")
 
 ==> This addon and its docs were cloned from https://github.com/bestlibre/hassio-addons/tree/master/mopidy <==
 
