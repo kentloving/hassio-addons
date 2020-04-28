@@ -75,8 +75,12 @@ To get the GMusic addon working add this to your options section:
    "value": "YourUserName"
 },
 {
-	"name": "gmusic/password",
-	"value": "ApplicationPassword"
+   "name": "gmusic/password",
+   "value": "ApplicationPassword"
+},
+{
+   "name": "gmusic/deviceid",
+   "value": "mac"
 }
 ````
 
