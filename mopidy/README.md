@@ -1,8 +1,7 @@
 
 
-!!!  armv7 only  !!!
 
-# Mopidy addon for hass.io
+# Mopidy addon for armv7 hass.io
 
 [![Build Status](https://travis-ci.org/kentloving/hassio-addons.svg?branch=master)](https://travis-ci.org/kentloving/hassio-addons)[![](https://images.microbadger.com/badges/version/kloving/mopidy-armv7.svg)](https://microbadger.com/images/kloving/mopidy-armv7 "Get your own version badge on microbadger.com")
 
