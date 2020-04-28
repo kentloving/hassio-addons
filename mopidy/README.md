@@ -2,7 +2,10 @@
 
 [![Build Status](https://travis-ci.org/kentloving/hassio-addons.svg?branch=master)](https://travis-ci.org/kentloving/hassio-addons)[![](https://images.microbadger.com/badges/version/kloving/mopidy-armv7.svg)](https://microbadger.com/images/kloving/mopidy-armvy "Get your own version badge on microbadger.com")
 
-THIS addon and its docs were cloned from https://github.com/bestlibre/hassio-addons/tree/master/mopidy
+==> This addon and its docs were cloned from https://github.com/bestlibre/hassio-addons/tree/master/mopidy <==
+
+I am very grateful for that work, but could not get it to produce tts on my RPi bases HassIO that is using SSL. Bestlibre's addon appears to be out of support. I hope that I do not offend.
+
 ## Audio player for Home Assistant
 
 This addon for hass.io add audio playing capability to the host.
