@@ -1,0 +1,25 @@
+{
+    "name": "Mopidy",
+    "version": "0.1.0",
+    "slug": "mopidy-kloving",
+    "description": "mopidy music server MINE",
+    "startup": "application",
+    "boot": "auto",
+    "image": "kloving/mopidy-{arch}",
+    "audio": true,
+    "options": {
+       "local_scan": true,
+       "certfile": "ca_bundle.crt",
+       "options": []},
+    "schema": {
+	"local_scan": "bool?",
+        "certfile": "str",
+	"options": [{"name": "str", "value": "str"}]
+    },
+    "devices": ["/dev/snd:/dev/snd:rwm"],
+    "ports": {"6680/tcp": 6680, "6600/tcp": 6600},
+    "map": ["share","ssl"],
+    "webui": "http://[HOST]:[PORT:6680]",
+    "host_ipc": true,
+    "arch": ["armv7", "armhf", "amd64", "aarch64", "i386"]
+}

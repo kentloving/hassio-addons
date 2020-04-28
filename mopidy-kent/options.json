@@ -1,0 +1,22 @@
+{
+  "certfile": "ca_bundle.crt",
+  "local_scan": true,
+  "options": [
+    {
+      "name": "local/media_dir",
+      "value": "/share/mopidy/media"
+    },
+    {
+      "name": "m3u/playlists_dir",
+      "value": "/share/mopidy/playlists/"
+    },
+    {
+      "name": "gmusic/username",
+      "value": "MYUSER"
+    },
+    {
+      "name": "gmusic/password",
+      "value": "MYPASSWORD"
+    }
+  ]
+}
