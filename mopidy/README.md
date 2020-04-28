@@ -1,7 +1,8 @@
 # Mopidy addon for hass.io
 
-[![Build Status](https://travis-ci.org/bestlibre/hassio-addons.svg?branch=master)](https://travis-ci.org/bestlibre/hassio-addons)[![](https://images.microbadger.com/badges/version/bestlibre/armhf-mopidy.svg)](https://microbadger.com/images/bestlibre/armhf-mopidy "Get your own version badge on microbadger.com")
+[![Build Status](https://travis-ci.org/kentloving/hassio-addons.svg?branch=master)](https://travis-ci.org/kentloving/hassio-addons)[![](https://images.microbadger.com/badges/version/kloving/mopidy-armv7.svg)](https://microbadger.com/images/kloving/mopidy-armvy "Get your own version badge on microbadger.com")
 
+THIS addon and its docs were cloned from https://github.com/bestlibre/hassio-addons/tree/master/mopidy
 ## Audio player for Home Assistant
 
 This addon for hass.io add audio playing capability to the host.
