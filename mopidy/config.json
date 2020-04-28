@@ -2,7 +2,7 @@
     "name": "Mopidy",
     "version": "0.1.0",
     "slug": "mopidy-kloving",
-    "description": "mopidy music server MINE",
+    "description": "Mopidy music server",
     "startup": "application",
     "boot": "auto",
     "image": "kloving/mopidy-{arch}",
