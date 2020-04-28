@@ -3,7 +3,7 @@
 
 # Mopidy addon for armv7 hass.io
 
-[![Build Status](https://travis-ci.org/kentloving/hassio-addons.svg?branch=master)](https://travis-ci.org/kentloving/hassio-addons)[![](https://images.microbadger.com/badges/version/kloving/mopidy-armv7.svg)](https://microbadger.com/images/kloving/mopidy-armv7 "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/kloving/mopidy-armv7.svg)](https://microbadger.com/images/kloving/mopidy-armv7 "Get your own version badge on microbadger.com")
 
 ==> This addon and its docs were cloned from https://github.com/bestlibre/hassio-addons/tree/master/mopidy <==
 
