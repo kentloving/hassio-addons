@@ -24,6 +24,9 @@ Mopidy listen on `6680` for http connection, and `6600` for mpd ones.
 This is a debian based addon since mopidy-spotify is not compatible with alpine.
 
 ## Configuration
+### certfile (string)
+Filename, relative to /ssl, of the file containing the public certificate of the ISSUER of your HassIO's identity. If you are using sslforfree, the file might be named ca_bundle.crt. The file must contain one and only one certificate.
+
 ### local_scan (bool)
 If it is set to true, a local scan is performed on startup.
 
